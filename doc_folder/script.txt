@@ -1,0 +1,1 @@
+welcome to script.txt under the doc_folder 
